@@ -1,0 +1,16 @@
+2020-03-10
+
+Game importer created, needs to be run daily.
+need to create game_analyzer which goes through every file for the day and appends each event to every involved players profile.
+This might involve a lot of file opening, may be easier to use a server. Will have to test.
+Same thing can be done for teams.
+At this point we can compile statistics for players. Again this is more cleanly handled by a server with player objects.
+
+2020-03-10
+
+As of right now there is no check on doubles. This will have to be corrected when reading the data.
+Can be checked by looking at game id and event number.
+
+2020-07-26
+
+Need to handle the case of a player being traded
