@@ -14,11 +14,11 @@ import event_info
 import custom_stats
 READ_MODE = 'r'
 
-def team(player_id,events):
-    if events[2][30] == player_id+".0" or events[2][22] == player_id+".0" or events[2][24] == player_id+".0" or events[2][26] == player_id+".0" or events[2][28] == player_id+".0" or events[2][32] == player_id+".0":
-        players_team = events[2][13]
+def team(player_id,event):
+    if event[30] == player_id+".0" or event[22] == player_id+".0" or event[24] == player_id+".0" or event[26] == player_id+".0" or event[28] == player_id+".0" or event[32] == player_id+".0":
+        players_team = event[13]
     else:
-        players_team = events[2][14]
+        players_team = event[14]
     return players_team
 
 
@@ -38,14 +38,13 @@ def assists(player_id,events):
 
 def cf(player_id,events):
 
-    players_team = team(player_id,events)
-    filtered_events = list(filter(lambda x: (((x[4] == "SHOT") or (x[4] == "MISS") or (x[4] =="BLOCK") or (x[4] =="GOAL")) and x[11] == players_team and x[3] != str(5) and event_info.is_5v5(x)), events))
+    filtered_events = list(filter(lambda x: (((x[4] == "SHOT") or (x[4] == "MISS") or (x[4] =="BLOCK") or (x[4] =="GOAL")) and x[11] == team(player_id,x) and x[3] != str(5) and event_info.is_5v5(x)), events))
     cf = len(filtered_events)
     return cf
 
 def ca(player_id,events):
-    players_team = team(player_id,events)
-    filtered_events = list(filter(lambda x: (((x[4] == "SHOT") or (x[4] == "MISS") or (x[4] =="BLOCK") or (x[4] =="GOAL")) and x[11] != players_team and x[3] != str(5) and event_info.is_5v5(x)), events))
+
+    filtered_events = list(filter(lambda x: (((x[4] == "SHOT") or (x[4] == "MISS") or (x[4] =="BLOCK") or (x[4] =="GOAL")) and x[11] != team(player_id,x) and x[3] != str(5) and event_info.is_5v5(x)), events))
     cf = len(filtered_events)
     return cf
 
@@ -55,14 +54,13 @@ def cfp(player_id,events):
     return CF/(CF+CA)
 
 def gf(player_id, events):
-    players_team = team(player_id,events)
         
-    filtered_events = list(filter(lambda x: (x[4] == "GOAL" and x[11] == players_team and x[3] != str(5) ), events))
+    filtered_events = list(filter(lambda x: (x[4] == "GOAL" and x[11] == team(player_id,x) and x[3] != str(5) ), events))
     return GF
 
 def ga(player_id, events):
-    players_team = team(player_id,events)
-    filtered_events = list(filter(lambda x: (x[4] == "GOAL" and x[11] != players_team and x[3] != str(5) ), events))
+
+    filtered_events = list(filter(lambda x: (x[4] == "GOAL" and x[11] != team(player_id,x) and x[3] != str(5) ), events))
     return len(filtered_events)
 
 def pm(player_id, events):
