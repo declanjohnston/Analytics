@@ -11,6 +11,7 @@ import hockey_scraper
 from datetime import date, timedelta
 import csv
 import logging
+import GLOBAL
 READ_MODE = 'r'
 
 

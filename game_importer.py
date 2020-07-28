@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import hockey_scraper
 from datetime import date, timedelta
 import csv
+import GLOBAL
 
 #Generate date and create path if necessary
 yesterday = date.today() - timedelta(days=1)
