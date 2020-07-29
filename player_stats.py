@@ -93,7 +93,13 @@ def lookup_id(player_id, stats_request):
         stat = stat.upper()
         stats.append(switcher.get(stat)(player_id,events))
     print(stats)    
-      
+
+def name_from_id(player_id):
+    with open("C:/Users/decla/Documents/Analytics/data/players/player_lookup.csv") as csv_file:
+        csv_reader = csv.reader(csv_file,delimiter=',')
+        for row in csv_reader:
+            if row[0] == player_id:
+                return row[1]
         
 def lookup_name(name, stats):
     #lookup player id in player_lookup.csv
