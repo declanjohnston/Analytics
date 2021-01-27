@@ -1,0 +1,120 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 2,
+  "totalEvents" : 0,
+  "totalGames" : 2,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2019-11-22",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020346,
+      "link" : "/api/v1/game/2019020346/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-11-23T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 10,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 1,
+            "name" : "New Jersey Devils",
+            "link" : "/api/v1/teams/1"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 12,
+            "losses" : 7,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020346/content"
+      }
+    }, {
+      "gamePk" : 2019020347,
+      "link" : "/api/v1/game/2019020347/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-11-23T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 9,
+            "losses" : 9,
+            "ot" : 2,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 3,
+            "name" : "New York Rangers",
+            "link" : "/api/v1/teams/3"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 11,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 9,
+            "name" : "Ottawa Senators",
+            "link" : "/api/v1/teams/9"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5031,
+        "name" : "Canadian Tire Centre",
+        "link" : "/api/v1/venues/5031"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020347/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

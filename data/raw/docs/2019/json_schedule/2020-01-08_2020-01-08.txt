@@ -1,0 +1,170 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2020-01-08",
+    "totalItems" : 3,
+    "totalEvents" : 0,
+    "totalGames" : 3,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020675,
+      "link" : "/api/v1/game/2019020675/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-01-09T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 24,
+            "losses" : 16,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 52,
+            "name" : "Winnipeg Jets",
+            "link" : "/api/v1/teams/52"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 24,
+            "losses" : 15,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 10,
+            "name" : "Toronto Maple Leafs",
+            "link" : "/api/v1/teams/10"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Scotiabank Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020675/content"
+      }
+    }, {
+      "gamePk" : 2019020676,
+      "link" : "/api/v1/game/2019020676/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-01-09T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 30,
+            "losses" : 10,
+            "ot" : 5,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 23,
+            "losses" : 15,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 4,
+            "name" : "Philadelphia Flyers",
+            "link" : "/api/v1/teams/4"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5096,
+        "name" : "Wells Fargo Center",
+        "link" : "/api/v1/venues/5096"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020676/content"
+      }
+    }, {
+      "gamePk" : 2019020677,
+      "link" : "/api/v1/game/2019020677/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-01-09T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 25,
+            "losses" : 14,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 25,
+            "name" : "Dallas Stars",
+            "link" : "/api/v1/teams/25"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 17,
+            "losses" : 24,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 26,
+            "name" : "Los Angeles Kings",
+            "link" : "/api/v1/teams/26"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5081,
+        "name" : "STAPLES Center",
+        "link" : "/api/v1/venues/5081"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020677/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

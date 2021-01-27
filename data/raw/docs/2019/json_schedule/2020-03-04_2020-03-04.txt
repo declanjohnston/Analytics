@@ -1,0 +1,222 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 4,
+  "totalEvents" : 0,
+  "totalGames" : 4,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2020-03-04",
+    "totalItems" : 4,
+    "totalEvents" : 0,
+    "totalGames" : 4,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019021029,
+      "link" : "/api/v1/game/2019021029/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-03-05T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 39,
+            "losses" : 20,
+            "ot" : 7,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 4,
+            "name" : "Philadelphia Flyers",
+            "link" : "/api/v1/teams/4"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 40,
+            "losses" : 20,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5094,
+        "name" : "Capital One Arena",
+        "link" : "/api/v1/venues/5094"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019021029/content"
+      }
+    }, {
+      "gamePk" : 2019021030,
+      "link" : "/api/v1/game/2019021030/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-03-05T01:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 32,
+            "losses" : 21,
+            "ot" : 15,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 35,
+            "losses" : 26,
+            "ot" : 7,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 20,
+            "name" : "Calgary Flames",
+            "link" : "/api/v1/teams/20"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5075,
+        "name" : "Scotiabank Saddledome",
+        "link" : "/api/v1/venues/5075"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019021030/content"
+      }
+    }, {
+      "gamePk" : 2019021031,
+      "link" : "/api/v1/game/2019021031/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-03-05T02:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 27,
+            "losses" : 32,
+            "ot" : 8,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 24,
+            "name" : "Anaheim Ducks",
+            "link" : "/api/v1/teams/24"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 40,
+            "losses" : 18,
+            "ot" : 8,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 21,
+            "name" : "Colorado Avalanche",
+            "link" : "/api/v1/teams/21"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5064,
+        "name" : "Pepsi Center",
+        "link" : "/api/v1/venues/5064"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019021031/content"
+      }
+    }, {
+      "gamePk" : 2019021032,
+      "link" : "/api/v1/game/2019021032/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-03-05T03:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 33,
+            "losses" : 27,
+            "ot" : 8,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 53,
+            "name" : "Arizona Coyotes",
+            "link" : "/api/v1/teams/53"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 34,
+            "losses" : 26,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 23,
+            "name" : "Vancouver Canucks",
+            "link" : "/api/v1/teams/23"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5073,
+        "name" : "Rogers Arena",
+        "link" : "/api/v1/venues/5073"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019021032/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

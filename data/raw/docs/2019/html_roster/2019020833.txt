@@ -1,0 +1,531 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Playing Roster</title>
+</head>
+<style type="text/css">
+				@media screen
+				{
+				     .print-class { display: block;}
+				}
+				@media print
+				{
+				     .print-class { display: none;}
+				}
+
+				p, td {font-family: arial,verdana; font-size: 10px;}
+				body {border:solid; border-width: 0;}
+				.title {font-weight:bold;font-size:14px;text-align:center;}
+				.tablewidth{width: 650px;}
+				.heading {font-weight:bold;}
+				.teamHeading {font-weight:bold;font-size:16px; }
+				.header {font-weight:bold;font-size:16px;}
+				.goal{font-weight: bold;}
+				.border {border:1px solid black;border-collapse: collapse;}
+				.noborder {border:0px solid black;border-collapse: collapse;}
+				.tborder{border-top:1px solid black;}
+				.bborder{border-bottom:1px solid black;}
+				.lborder{border-left:1px solid black;}
+				.rborder{border-right:1px solid black;}
+				.spacer{font-size:1px;height:5px;}
+				.bold{font-weight:bold;}
+				.italic{font-style:italic;}
+			</style>
+<body leftmargin="0" topmargin="0"><script language="javascript" defer><!--
+				//Disable right mouse click Script
+									
+				function clickIE4(){
+				if (event.button==2){
+				return false;
+				}
+				}
+				
+				function clickNS4(e){
+				if (document.layers||document.getElementById&&!document.all){
+				if (e.which==2||e.which==3){
+				return false;
+				}
+				}
+				}
+														
+				if (document.layers){
+				document.captureEvents(Event.MOUSEDOWN);
+				document.onmousedown=clickNS4;
+				}
+				else if (document.all&&!document.getElementById){
+				document.onmousedown=clickIE4;
+				}
+				
+				document.oncontextmenu=new Function("return false");
+		
+			--></script><div class="print-class" align="center"><script languange="javascript" type="text/javascript" src="http://www.nhl.com/scores/htmlreports/scripts/roTop.js"><!--&nbsp;--></script></div>
+<table border="0" cellpadding="0" cellspacing="0" class="tablewidth" align="center">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" class="tablewidth">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" xmlns:ext="urn:schemas-microsoft-com:xslt">
+<tr>
+<td valign="top">
+<table id="Visitor" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td align="center" style="font-size: 12px;font-weight:bold">VISITOR</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="4" cellspacing="20" align="center">
+<tr>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logoccol.gif" alt="COLORADO AVALANCHE" width="50" height="50" border="0"></td>
+<td align="center" style="font-size: 40px;font-weight:bold">4</td>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logocnhl.gif" width="50" height="50" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">COLORADO AVALANCHE<br>Game 52 Away Game 27</td>
+</tr>
+</table>
+</td>
+<td>
+<table id="GameInfo" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td style="font-size: 14px;font-weight:bold" align="center">Club Playing Roster</td>
+</tr>
+<tr>
+<td style="font-size: 14px;font-weight:bold" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold"></td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Thursday, February 6, 2020</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Attendance 11,465&nbsp;at&nbsp;Canadian Tire Centre</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Start&nbsp;7:40&nbsp;EST; End&nbsp;10:04&nbsp;EST</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Game 0833</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Final</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table id="Home" border="0" cellpadding="" cellspacing="0" align="center">
+<tr>
+<td align="center" style="font-size: 12px;font-weight:bold">HOME</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="4" cellspacing="20" align="center">
+<tr>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logocnhl.gif" width="50" height="50" border="0"></td>
+<td align="center" style="font-size: 40px;font-weight:bold">1</td>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logocott.gif" alt="OTTAWA SENATORS" width="50" height="50" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">OTTAWA SENATORS<br>Game 54 Home Game 28</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + tborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" align="center">
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+<tr>
+<td align="center" width="50%" class="teamHeading + border ">COLORADO AVALANCHE</td>
+<td align="center" width="50%" class="teamHeading + border">OTTAWA SENATORS</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+<tr>
+<td valign="top" width="50%" class="border">
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="15%" class="heading + bborder" align="center">#</td>
+<td width="15%" class="heading + bborder" align="center">Pos</td>
+<td width="70%" class="heading + bborder" align="left">Name</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="italic">6</td>
+<td align="center" width="15%" class="italic">D</td>
+<td align="left" width="70%" class="italic">ERIK JOHNSON  (A)</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">8</td>
+<td align="center" width="15%" class="bold">D</td>
+<td align="left" width="70%" class="bold">CALE MAKAR</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">11</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">MATT CALVERT</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">13</td>
+<td align="center" width="15%" class="">R</td>
+<td align="left" width="70%" class="">VALERI NICHUSHKIN</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">16</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">NIKITA ZADOROV</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">17</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">TYSON JOST</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">27</td>
+<td align="center" width="15%" class="bold">D</td>
+<td align="left" width="70%" class="bold">RYAN GRAVES</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">28</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">IAN COLE</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold + italic">29</td>
+<td align="center" width="15%" class="bold + italic">C</td>
+<td align="left" width="70%" class="bold + italic">NATHAN MACKINNON  (A)</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">37</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">J.T. COMPHER</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">41</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">PIERRE-EDOUARD BELLEMARE</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">49</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">SAMUEL GIRARD</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">72</td>
+<td align="center" width="15%" class="">R</td>
+<td align="left" width="70%" class="">JOONAS DONSKOI</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">83</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">MATT NIETO</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">91</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">NAZEM KADRI</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold + italic">92</td>
+<td align="center" width="15%" class="bold + italic">L</td>
+<td align="left" width="70%" class="bold + italic">GABRIEL LANDESKOG  (C)</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">95</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">ANDRE BURAKOVSKY</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">96</td>
+<td align="center" width="15%" class="bold">R</td>
+<td align="left" width="70%" class="bold">MIKKO RANTANEN</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">31</td>
+<td align="center" width="15%" class="bold">G</td>
+<td align="left" width="70%" class="bold">PHILIPP GRUBAUER</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">39</td>
+<td align="center" width="15%" class="">G</td>
+<td align="left" width="70%" class="">PAVEL FRANCOUZ</td>
+</tr>
+</table>
+</td>
+<td valign="top" width="50%" class="border">
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="15%" class="heading + bborder" align="center">#</td>
+<td width="15%" class="heading + bborder" align="center">Pos</td>
+<td width="70%" class="heading + bborder" align="left">Name</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">2</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">DYLAN DEMELO</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">5</td>
+<td align="center" width="15%" class="bold">D</td>
+<td align="left" width="70%" class="bold">MIKE REILLY</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">7</td>
+<td align="center" width="15%" class="bold">L</td>
+<td align="left" width="70%" class="bold">BRADY TKACHUK</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">10</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">ANTHONY DUCLAIR</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">13</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">NICK PAUL</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">19</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">DRAKE BATHERSON</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">22</td>
+<td align="center" width="15%" class="bold">D</td>
+<td align="left" width="70%" class="bold">NIKITA ZAITSEV</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">28</td>
+<td align="center" width="15%" class="bold">R</td>
+<td align="left" width="70%" class="bold">CONNOR BROWN</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">36</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">COLIN WHITE</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold + italic">44</td>
+<td align="center" width="15%" class="bold + italic">C</td>
+<td align="left" width="70%" class="bold + italic">JEAN-GABRIEL PAGEAU  (A)</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">49</td>
+<td align="center" width="15%" class="">R</td>
+<td align="left" width="70%" class="">SCOTT SABOURIN</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">51</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">ARTEM ANISIMOV</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">63</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">TYLER ENNIS</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">71</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">CHRIS TIERNEY</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">72</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">THOMAS CHABOT</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="italic">74</td>
+<td align="center" width="15%" class="italic">D</td>
+<td align="left" width="70%" class="italic">MARK BOROWIECKI  (A)</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">78</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">FILIP CHLAPIK</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="italic">81</td>
+<td align="center" width="15%" class="italic">D</td>
+<td align="left" width="70%" class="italic">RON HAINSEY  (A)</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="bold">35</td>
+<td align="center" width="15%" class="bold">G</td>
+<td align="left" width="70%" class="bold">MARCUS HOGBERG</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">41</td>
+<td align="center" width="15%" class="">G</td>
+<td align="left" width="70%" class="">CRAIG ANDERSON</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="center" class="header">Scratches</td>
+</tr>
+<tr id="Scratches" valign="top">
+<td align="center" width="50%" class="border">
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="15%" class="heading + bborder" align="center">#</td>
+<td width="15%" class="heading + bborder" align="center">Pos</td>
+<td width="70%" class="heading + bborder" align="left">Name</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">44</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">MARK BARBERIO</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">48</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">CALLE ROSEN</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">81</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">VLADISLAV KAMENEV</td>
+</tr>
+</table>
+</td>
+<td align="center" width="50%" class="border">
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="15%" class="heading + bborder" align="center">#</td>
+<td width="15%" class="heading + bborder" align="center">Pos</td>
+<td width="70%" class="heading + bborder" align="left">Name</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">29</td>
+<td align="center" width="15%" class="">D</td>
+<td align="left" width="70%" class="">CODY GOLOUBEF</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">89</td>
+<td align="center" width="15%" class="">L</td>
+<td align="left" width="70%" class="">MIKKEL BOEDKER</td>
+</tr>
+<tr>
+<td align="center" width="15%" class="">90</td>
+<td align="center" width="15%" class="">C</td>
+<td align="left" width="70%" class="">VLADISLAV NAMESTNIKOV</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="center" class="header">Head Coaches</td>
+</tr>
+<tr id="HeadCoaches">
+<td align="center" width="50%" class="border">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td>JARED BEDNAR</td>
+</tr>
+</table>
+</td>
+<td align="center" width="50%" class="border">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td>D.J. SMITH</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" class="header" colspan="2">Officials</td>
+</tr>
+<tr valign="top">
+<td align="center" width="100%" colspan="2" class="border">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr valign="top">
+<td align="center" class="heading">Referee</td>
+<td align="center" class="heading">Linesman</td>
+</tr>
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="left">#24 Graham Skilliter</td>
+</tr>
+<tr>
+<td align="left">#21 TJ Luxmore</td>
+</tr>
+</table>
+</td>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="center">#81 Ryan Daisy</td>
+</tr>
+<tr>
+<td align="center">#51 Andrew Smith</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr valign="top">
+<td align="center" class="heading">Standby</td>
+<td align="center" class="heading">Standby</td>
+</tr>
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0">
+</table>
+</td>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0">
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="2">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="tablewidth" align="center">
+<tr>
+<td><b>* Starting Lineup in Bold</b></td>
+</tr>
+<tr>
+<td>&#169; Copyright 2020, National Hockey League
+							&nbsp;2020-02-06-22.17.49</td>
+</tr>
+</table>
+<div class="print-class" align="center"><script languange="javascript" type="text/javascript" src="http://www.nhl.com/scores/htmlreports/scripts/roBottom.js"><!--&nbsp;--></script></div>
+</body>
+</html>

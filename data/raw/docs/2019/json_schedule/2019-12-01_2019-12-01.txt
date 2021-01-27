@@ -1,0 +1,171 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2019-12-01",
+    "totalItems" : 3,
+    "totalEvents" : 0,
+    "totalGames" : 3,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020416,
+      "link" : "/api/v1/game/2019020416/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-12-01T20:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 15,
+            "losses" : 10,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 25,
+            "name" : "Dallas Stars",
+            "link" : "/api/v1/teams/25"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 12,
+            "losses" : 11,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 30,
+            "name" : "Minnesota Wild",
+            "link" : "/api/v1/teams/30"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5098,
+        "name" : "Xcel Energy Center",
+        "link" : "/api/v1/venues/5098"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020416/content"
+      }
+    }, {
+      "gamePk" : 2019020417,
+      "link" : "/api/v1/game/2019020417/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-12-02T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 10,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 19,
+            "losses" : 3,
+            "ot" : 5,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 6,
+            "name" : "Boston Bruins",
+            "link" : "/api/v1/teams/6"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5085,
+        "name" : "TD Garden",
+        "link" : "/api/v1/venues/5085"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020417/content"
+      }
+    }, {
+      "gamePk" : 2019020418,
+      "link" : "/api/v1/game/2019020418/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-12-02T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 17,
+            "losses" : 9,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 22,
+            "name" : "Edmonton Oilers",
+            "link" : "/api/v1/teams/22"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 11,
+            "ot" : 4,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 23,
+            "name" : "Vancouver Canucks",
+            "link" : "/api/v1/teams/23"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5073,
+        "name" : "Rogers Arena",
+        "link" : "/api/v1/venues/5073"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020418/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

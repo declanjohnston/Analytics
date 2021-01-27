@@ -1,0 +1,171 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2020-02-26",
+    "totalItems" : 3,
+    "totalEvents" : 0,
+    "totalGames" : 3,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020981,
+      "link" : "/api/v1/game/2019020981/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-02-27T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 29,
+            "losses" : 26,
+            "ot" : 8,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 7,
+            "name" : "Buffalo Sabres",
+            "link" : "/api/v1/teams/7"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 37,
+            "losses" : 18,
+            "ot" : 7,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 21,
+            "name" : "Colorado Avalanche",
+            "link" : "/api/v1/teams/21"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5064,
+        "name" : "Pepsi Center",
+        "link" : "/api/v1/venues/5064"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020981/content"
+      }
+    }, {
+      "gamePk" : 2019020982,
+      "link" : "/api/v1/game/2019020982/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-02-27T03:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 33,
+            "losses" : 23,
+            "ot" : 8,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 22,
+            "name" : "Edmonton Oilers",
+            "link" : "/api/v1/teams/22"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 35,
+            "losses" : 22,
+            "ot" : 8,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 54,
+            "name" : "Vegas Golden Knights",
+            "link" : "/api/v1/teams/54"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5178,
+        "name" : "T-Mobile Arena",
+        "link" : "/api/v1/venues/5178"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020982/content"
+      }
+    }, {
+      "gamePk" : 2019020983,
+      "link" : "/api/v1/game/2019020983/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-02-27T03:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 37,
+            "losses" : 19,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 23,
+            "losses" : 35,
+            "ot" : 6,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 26,
+            "name" : "Los Angeles Kings",
+            "link" : "/api/v1/teams/26"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5081,
+        "name" : "STAPLES Center",
+        "link" : "/api/v1/venues/5081"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020983/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

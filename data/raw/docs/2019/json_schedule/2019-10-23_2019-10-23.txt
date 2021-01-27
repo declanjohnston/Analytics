@@ -1,0 +1,120 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 2,
+  "totalEvents" : 0,
+  "totalGames" : 2,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2019-10-23",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020143,
+      "link" : "/api/v1/game/2019020143/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-23T23:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 7,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 17,
+            "name" : "Detroit Red Wings",
+            "link" : "/api/v1/teams/17"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 6,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 9,
+            "name" : "Ottawa Senators",
+            "link" : "/api/v1/teams/9"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5031,
+        "name" : "Canadian Tire Centre",
+        "link" : "/api/v1/venues/5031"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020143/content"
+      }
+    }, {
+      "gamePk" : 2019020144,
+      "link" : "/api/v1/game/2019020144/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-24T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 5,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 3,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 14,
+            "name" : "Tampa Bay Lightning",
+            "link" : "/api/v1/teams/14"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5017,
+        "name" : "Amalie Arena",
+        "link" : "/api/v1/venues/5017"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020144/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

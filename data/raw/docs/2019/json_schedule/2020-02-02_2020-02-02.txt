@@ -1,0 +1,170 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2020-02-02",
+    "totalItems" : 3,
+    "totalEvents" : 0,
+    "totalGames" : 3,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020806,
+      "link" : "/api/v1/game/2019020806/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-02-02T17:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 33,
+            "losses" : 14,
+            "ot" : 5,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 35,
+            "losses" : 13,
+            "ot" : 5,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5094,
+        "name" : "Capital One Arena",
+        "link" : "/api/v1/venues/5094"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020806/content"
+      }
+    }, {
+      "gamePk" : 2019020807,
+      "link" : "/api/v1/game/2019020807/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-02-02T19:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 28,
+            "losses" : 16,
+            "ot" : 9,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 24,
+            "losses" : 23,
+            "ot" : 7,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Centre Bell",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020807/content"
+      }
+    }, {
+      "gamePk" : 2019020808,
+      "link" : "/api/v1/game/2019020808/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2020-02-02T19:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 30,
+            "losses" : 18,
+            "ot" : 5,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 23,
+            "name" : "Vancouver Canucks",
+            "link" : "/api/v1/teams/23"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 30,
+            "losses" : 19,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 12,
+            "name" : "Carolina Hurricanes",
+            "link" : "/api/v1/teams/12"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5066,
+        "name" : "PNC Arena",
+        "link" : "/api/v1/venues/5066"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020808/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

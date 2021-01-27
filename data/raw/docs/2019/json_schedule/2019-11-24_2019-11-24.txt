@@ -1,0 +1,171 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2019-11-24",
+    "totalItems" : 3,
+    "totalEvents" : 0,
+    "totalGames" : 3,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020362,
+      "link" : "/api/v1/game/2019020362/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-11-24T22:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 9,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 7,
+            "name" : "Buffalo Sabres",
+            "link" : "/api/v1/teams/7"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 12,
+            "losses" : 7,
+            "ot" : 5,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 13,
+            "name" : "Florida Panthers",
+            "link" : "/api/v1/teams/13"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5027,
+        "name" : "BB&T Center",
+        "link" : "/api/v1/venues/5027"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020362/content"
+      }
+    }, {
+      "gamePk" : 2019020363,
+      "link" : "/api/v1/game/2019020363/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-11-25T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 15,
+            "losses" : 8,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 12,
+            "name" : "Carolina Hurricanes",
+            "link" : "/api/v1/teams/12"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 16,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 17,
+            "name" : "Detroit Red Wings",
+            "link" : "/api/v1/teams/17"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5145,
+        "name" : "Little Caesars Arena",
+        "link" : "/api/v1/venues/5145"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020363/content"
+      }
+    }, {
+      "gamePk" : 2019020364,
+      "link" : "/api/v1/game/2019020364/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-11-25T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 16,
+            "losses" : 7,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 22,
+            "name" : "Edmonton Oilers",
+            "link" : "/api/v1/teams/22"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 14,
+            "losses" : 8,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 53,
+            "name" : "Arizona Coyotes",
+            "link" : "/api/v1/teams/53"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5043,
+        "name" : "Gila River Arena",
+        "link" : "/api/v1/venues/5043"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020364/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

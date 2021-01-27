@@ -1,0 +1,528 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 10,
+  "totalEvents" : 0,
+  "totalGames" : 10,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2019-10-22",
+    "totalItems" : 10,
+    "totalEvents" : 0,
+    "totalGames" : 10,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019020133,
+      "link" : "/api/v1/game/2019020133/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-22T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 4,
+            "ot" : 2,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 10,
+            "name" : "Toronto Maple Leafs",
+            "link" : "/api/v1/teams/10"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 1,
+            "ot" : 2,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 6,
+            "name" : "Boston Bruins",
+            "link" : "/api/v1/teams/6"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5085,
+        "name" : "TD Garden",
+        "link" : "/api/v1/venues/5085"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020133/content"
+      }
+    }, {
+      "gamePk" : 2019020134,
+      "link" : "/api/v1/game/2019020134/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-22T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 5,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 28,
+            "name" : "San Jose Sharks",
+            "link" : "/api/v1/teams/28"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 8,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 7,
+            "name" : "Buffalo Sabres",
+            "link" : "/api/v1/teams/7"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5039,
+        "name" : "KeyBank Center",
+        "link" : "/api/v1/venues/5039"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020134/content"
+      }
+    }, {
+      "gamePk" : 2019020135,
+      "link" : "/api/v1/game/2019020135/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-22T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 4,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 2,
+            "ot" : 3,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 13,
+            "name" : "Florida Panthers",
+            "link" : "/api/v1/teams/13"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5027,
+        "name" : "BB&T Center",
+        "link" : "/api/v1/venues/5027"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020135/content"
+      }
+    }, {
+      "gamePk" : 2019020136,
+      "link" : "/api/v1/game/2019020136/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-22T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 2,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 53,
+            "name" : "Arizona Coyotes",
+            "link" : "/api/v1/teams/53"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 4,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 3,
+            "name" : "New York Rangers",
+            "link" : "/api/v1/teams/3"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5054,
+        "name" : "Madison Square Garden",
+        "link" : "/api/v1/venues/5054"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020136/content"
+      }
+    }, {
+      "gamePk" : 2019020137,
+      "link" : "/api/v1/game/2019020137/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-22T23:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 3,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 23,
+            "name" : "Vancouver Canucks",
+            "link" : "/api/v1/teams/23"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 6,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 17,
+            "name" : "Detroit Red Wings",
+            "link" : "/api/v1/teams/17"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5145,
+        "name" : "Little Caesars Arena",
+        "link" : "/api/v1/venues/5145"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020137/content"
+      }
+    }, {
+      "gamePk" : 2019020138,
+      "link" : "/api/v1/game/2019020138/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-23T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 4,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 24,
+            "name" : "Anaheim Ducks",
+            "link" : "/api/v1/teams/24"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 3,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 18,
+            "name" : "Nashville Predators",
+            "link" : "/api/v1/teams/18"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5030,
+        "name" : "Bridgestone Arena",
+        "link" : "/api/v1/venues/5030"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020138/content"
+      }
+    }, {
+      "gamePk" : 2019020139,
+      "link" : "/api/v1/game/2019020139/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-23T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 2,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 22,
+            "name" : "Edmonton Oilers",
+            "link" : "/api/v1/teams/22"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 6,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 30,
+            "name" : "Minnesota Wild",
+            "link" : "/api/v1/teams/30"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5098,
+        "name" : "Xcel Energy Center",
+        "link" : "/api/v1/venues/5098"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020139/content"
+      }
+    }, {
+      "gamePk" : 2019020140,
+      "link" : "/api/v1/game/2019020140/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-23T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 5,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 26,
+            "name" : "Los Angeles Kings",
+            "link" : "/api/v1/teams/26"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 6,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 52,
+            "name" : "Winnipeg Jets",
+            "link" : "/api/v1/teams/52"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5058,
+        "name" : "Bell MTS Place",
+        "link" : "/api/v1/venues/5058"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020140/content"
+      }
+    }, {
+      "gamePk" : 2019020141,
+      "link" : "/api/v1/game/2019020141/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-23T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 4,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 54,
+            "name" : "Vegas Golden Knights",
+            "link" : "/api/v1/teams/54"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 3,
+            "ot" : 2,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 16,
+            "name" : "Chicago Blackhawks",
+            "link" : "/api/v1/teams/16"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5092,
+        "name" : "United Center",
+        "link" : "/api/v1/venues/5092"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020141/content"
+      }
+    }, {
+      "gamePk" : 2019020142,
+      "link" : "/api/v1/game/2019020142/feed/live",
+      "gameType" : "R",
+      "season" : "20192020",
+      "gameDate" : "2019-10-23T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 2,
+            "ot" : 2,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 5,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 20,
+            "name" : "Calgary Flames",
+            "link" : "/api/v1/teams/20"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5075,
+        "name" : "Scotiabank Saddledome",
+        "link" : "/api/v1/venues/5075"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019020142/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

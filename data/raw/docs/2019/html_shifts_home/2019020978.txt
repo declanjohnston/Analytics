@@ -1,0 +1,4081 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Time On Ice Report Home Team</title>
+</head>
+<style type="text/css">
+				@media screen
+				{
+				     .print-class { display: block;}
+				}
+				@media print
+				{
+				     .print-class { display: none;}
+				}
+				.page { display: none; }
+				body {border:solid; border-width: 0;}
+				p, td {font-family: arial,verdana; font-size: 10px;}
+				.tablewidth{width:650px;}
+				.title {font-weight:bold;font-size:14px;}
+				.note{font-weight:bold;font-size:8px;}
+				.heading {font-weight:bold;}
+				.playerHeading{font-weight:bold;font-size:12px;background-color:E7E7E7;}
+				.teamHeading{font-weight:bold;font-size:16px;}
+				.border{border:1px solid black;border-collapse: collapse;}
+				.noborder{border:0px solid black;border-collapse: collapse;}
+				.tborder{border-top:1px solid black;}
+				.bborder{border-bottom:1px solid black;}
+				.lborder{border-left:1px solid black;}
+				.rborder{border-right:1px solid black;}
+				.oddColor{background-color: #E7E7E7;}
+				.evenColor{background-color: #FFFFFF;}
+				.spacer{font-size:1px;height:5px;}
+				.pageBreakAfter{page-break-after: always;}
+				.bold{font-weight:bold;}
+			</style>
+<body leftmargin="0" topmargin="0"><script language="javascript" defer><!--
+				//Disable right mouse click Script
+									
+				function clickIE4(){
+				if (event.button==2){
+				return false;
+				}
+				}
+				
+				function clickNS4(e){
+				if (document.layers||document.getElementById&&!document.all){
+				if (e.which==2||e.which==3){
+				return false;
+				}
+				}
+				}
+														
+				if (document.layers){
+				document.captureEvents(Event.MOUSEDOWN);
+				document.onmousedown=clickNS4;
+				}
+				else if (document.all&&!document.getElementById){
+				document.onmousedown=clickIE4;
+				}
+				
+				document.oncontextmenu=new Function("return false");
+		
+			--></script><div class="print-class" align="center"><script languange="javascript" type="text/javascript" src="http://www.nhl.com/scores/htmlreports/scripts/toiTop.js"><!--&nbsp;--></script></div>
+<div class="pageBreakAfter" align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="tablewidth" align="center">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" class="tablewidth">
+<tr>
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" xmlns:ext="urn:schemas-microsoft-com:xslt">
+<tr>
+<td valign="top">
+<table id="Visitor" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td align="center" style="font-size: 12px;font-weight:bold">VISITOR</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="4" cellspacing="20" align="center">
+<tr>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logoccbj.gif" alt="COLUMBUS BLUE JACKETS" width="50" height="50" border="0"></td>
+<td align="center" style="font-size: 40px;font-weight:bold">4</td>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logocnhl.gif" width="50" height="50" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">COLUMBUS BLUE JACKETS<br>Game 65 Away Game 31</td>
+</tr>
+</table>
+</td>
+<td>
+<table id="GameInfo" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td style="font-size: 14px;font-weight:bold" align="center">TOI Shift Report</td>
+</tr>
+<tr>
+<td style="font-size: 14px;font-weight:bold" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold"></td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Tuesday, February 25, 2020</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Attendance 17,057&nbsp;at&nbsp;Xcel Energy Center</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Start&nbsp;7:08&nbsp;CST; End&nbsp;9:32&nbsp;CST</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Game 0978</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">Final</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table id="Home" border="0" cellpadding="" cellspacing="0" align="center">
+<tr>
+<td align="center" style="font-size: 12px;font-weight:bold">HOME</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="4" cellspacing="20" align="center">
+<tr>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logocnhl.gif" width="50" height="50" border="0"></td>
+<td align="center" style="font-size: 40px;font-weight:bold">5</td>
+<td align="center"><img src="http://www.nhl.com/scores/htmlreports/images/logocmin.gif" alt="MINNESOTA WILD" width="50" height="50" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 10px;font-weight:bold">MINNESOTA WILD<br>Game 62 Home Game 33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer">&nbsp;</td>
+</tr>
+<tr>
+<td class="tablewidth" valign="top">
+<table border="0" cellpadding="0" cellspacing="5" class="tablewidth">
+<tr>
+<td class="teamHeading + border" align="center">MINNESOTA WILD</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">6 DONATO, RYAN</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">3:13 / 16:47</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">11:20 / 8:40</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">01:06</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">15:32 / 4:28</td>
+<td align="center" class="lborder + bborder">16:14 / 3:46</td>
+<td align="center" class="lborder + bborder">00:42</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:00 / 1:00</td>
+<td align="center" class="lborder + bborder">19:52 / 0:08</td>
+<td align="center" class="lborder + bborder">00:52</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">3:16 / 16:44</td>
+<td align="center" class="lborder + bborder">01:13</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">11:41 / 8:19</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">00:27</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">15:24 / 4:36</td>
+<td align="center" class="lborder + bborder">16:14 / 3:46</td>
+<td align="center" class="lborder + bborder">00:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">18:44 / 1:16</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">01:05</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">2:44 / 17:16</td>
+<td align="center" class="lborder + bborder">4:04 / 15:56</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">8:17 / 11:43</td>
+<td align="center" class="lborder + bborder">00:33</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">15:13 / 4:47</td>
+<td align="center" class="lborder + bborder">16:06 / 3:54</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">00:52</td>
+<td class="bborder + lborder + " align="center">03:28</td>
+<td class="bborder + lborder + " align="center">03:28</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">00:53</td>
+<td class="bborder + lborder + " align="center">03:35</td>
+<td class="bborder + lborder + " align="center">03:35</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">00:53</td>
+<td class="bborder + lborder + " align="center">03:34</td>
+<td class="bborder + lborder + " align="center">03:34</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">12</td>
+<td class="bborder + lborder + bold" align="center">00:53</td>
+<td class="bborder + lborder + bold" align="center">10:37</td>
+<td class="bborder + lborder + bold" align="center">10:37</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">00:00</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">9 KOIVU, MIKKO</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">3:04 / 16:56</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">00:46</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">11:11 / 8:49</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">01:15</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">15:32 / 4:28</td>
+<td align="center" class="lborder + bborder">16:31 / 3:29</td>
+<td align="center" class="lborder + bborder">00:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:00 / 1:00</td>
+<td align="center" class="lborder + bborder">19:55 / 0:05</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">3:16 / 16:44</td>
+<td align="center" class="lborder + bborder">01:13</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">7:40 / 12:20</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">11:38 / 8:22</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">15:26 / 4:34</td>
+<td align="center" class="lborder + bborder">16:16 / 3:44</td>
+<td align="center" class="lborder + bborder">00:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">8:17 / 11:43</td>
+<td align="center" class="lborder + bborder">00:33</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">14:13 / 5:47</td>
+<td align="center" class="lborder + bborder">00:40</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">15:16 / 4:44</td>
+<td align="center" class="lborder + bborder">15:55 / 4:05</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">19:05 / 0:55</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + " align="center">04:34</td>
+<td class="bborder + lborder + " align="center">03:48</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:46</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:49</td>
+<td class="bborder + lborder + " align="center">04:05</td>
+<td class="bborder + lborder + " align="center">03:26</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:39</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:46</td>
+<td class="bborder + lborder + " align="center">04:37</td>
+<td class="bborder + lborder + " align="center">04:37</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">16</td>
+<td class="bborder + lborder + bold" align="center">00:49</td>
+<td class="bborder + lborder + bold" align="center">13:16</td>
+<td class="bborder + lborder + bold" align="center">11:51</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">01:25</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">11 PARISE, ZACH</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:13 / 16:47</td>
+<td align="center" class="lborder + bborder">3:34 / 16:26</td>
+<td align="center" class="lborder + bborder">00:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">4:54 / 15:06</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">00:17</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">6:27 / 13:33</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">9:27 / 10:33</td>
+<td align="center" class="lborder + bborder">11:20 / 8:40</td>
+<td align="center" class="lborder + bborder">01:53</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">14:34 / 5:26</td>
+<td align="center" class="lborder + bborder">15:32 / 4:28</td>
+<td align="center" class="lborder + bborder">00:58</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">18:03 / 1:57</td>
+<td align="center" class="lborder + bborder">19:00 / 1:00</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">00:34</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:16 / 16:44</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">01:18</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">8:24 / 11:36</td>
+<td align="center" class="lborder + bborder">9:15 / 10:45</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">00:41</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">16:14 / 3:46</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">1:20 / 18:40</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:04 / 15:56</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">8:17 / 11:43</td>
+<td align="center" class="lborder + bborder">9:16 / 10:44</td>
+<td align="center" class="lborder + bborder">00:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">01:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:06 / 3:54</td>
+<td align="center" class="lborder + bborder">16:51 / 3:09</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">19:05 / 0:55</td>
+<td align="center" class="lborder + bborder">01:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">00:47</td>
+<td class="bborder + lborder + " align="center">05:35</td>
+<td class="bborder + lborder + " align="center">05:05</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:30</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:57</td>
+<td class="bborder + lborder + " align="center">04:45</td>
+<td class="bborder + lborder + " align="center">03:14</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + rborder " align="center">00:37</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">01:04</td>
+<td class="bborder + lborder + " align="center">06:26</td>
+<td class="bborder + lborder + " align="center">06:26</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">18</td>
+<td class="bborder + lborder + bold" align="center">00:55</td>
+<td class="bborder + lborder + bold" align="center">16:46</td>
+<td class="bborder + lborder + bold" align="center">14:45</td>
+<td class="bborder + lborder + bold" align="center">00:54</td>
+<td class="bborder + lborder + rborder bold" align="center">01:07</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">12 STAAL, ERIC</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:34 / 16:26</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">01:29</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">00:49</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">01:07</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">16:31 / 3:29</td>
+<td align="center" class="lborder + bborder">17:07 / 2:53</td>
+<td align="center" class="lborder + bborder">00:36</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:55 / 0:05</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:05</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">9:40 / 10:20</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">00:36</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">14:02 / 5:58</td>
+<td align="center" class="lborder + bborder">01:13</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:20 / 18:40</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">00:35</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">00:56</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">9:16 / 10:44</td>
+<td align="center" class="lborder + bborder">10:36 / 9:24</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">14:13 / 5:47</td>
+<td align="center" class="lborder + bborder">00:40</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:51 / 3:09</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:50</td>
+<td class="bborder + lborder + " align="center">05:01</td>
+<td class="bborder + lborder + " align="center">04:47</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:14</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:57</td>
+<td class="bborder + lborder + " align="center">04:49</td>
+<td class="bborder + lborder + " align="center">03:55</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + " align="center">04:31</td>
+<td class="bborder + lborder + " align="center">04:31</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">16</td>
+<td class="bborder + lborder + bold" align="center">00:53</td>
+<td class="bborder + lborder + bold" align="center">14:21</td>
+<td class="bborder + lborder + bold" align="center">13:13</td>
+<td class="bborder + lborder + bold" align="center">00:54</td>
+<td class="bborder + lborder + rborder bold" align="center">00:14</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">14 ERIKSSON EK, JOEL</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:04 / 16:56</td>
+<td align="center" class="lborder + bborder">3:34 / 16:26</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">00:08</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:11 / 12:49</td>
+<td align="center" class="lborder + bborder">7:17 / 12:43</td>
+<td align="center" class="lborder + bborder">00:06</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">9:24 / 10:36</td>
+<td align="center" class="lborder + bborder">11:11 / 8:49</td>
+<td align="center" class="lborder + bborder">01:47</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">14:31 / 5:29</td>
+<td align="center" class="lborder + bborder">15:32 / 4:28</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">19:00 / 1:00</td>
+<td align="center" class="lborder + bborder">01:09</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">00:34</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:16 / 16:44</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">00:24</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:40 / 12:20</td>
+<td align="center" class="lborder + bborder">8:24 / 11:36</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">00:41</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">16:16 / 3:44</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">01:19</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">1:20 / 18:40</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">8:17 / 11:43</td>
+<td align="center" class="lborder + bborder">9:16 / 10:44</td>
+<td align="center" class="lborder + bborder">00:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">01:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">15:55 / 4:05</td>
+<td align="center" class="lborder + bborder">16:51 / 3:09</td>
+<td align="center" class="lborder + bborder">00:56</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">19</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">19:05 / 0:55</td>
+<td align="center" class="lborder + bborder">01:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">00:45</td>
+<td class="bborder + lborder + " align="center">05:20</td>
+<td class="bborder + lborder + " align="center">05:20</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:47</td>
+<td class="bborder + lborder + " align="center">04:46</td>
+<td class="bborder + lborder + " align="center">04:02</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:44</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">01:07</td>
+<td class="bborder + lborder + " align="center">06:43</td>
+<td class="bborder + lborder + " align="center">06:43</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">19</td>
+<td class="bborder + lborder + bold" align="center">00:53</td>
+<td class="bborder + lborder + bold" align="center">16:49</td>
+<td class="bborder + lborder + bold" align="center">16:05</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">00:44</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">17 FOLIGNO, MARCUS</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:48 / 14:12</td>
+<td align="center" class="lborder + bborder">6:27 / 13:33</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">9:27 / 10:33</td>
+<td align="center" class="lborder + bborder">01:41</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">13:32 / 6:28</td>
+<td align="center" class="lborder + bborder">14:34 / 5:26</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">17:11 / 2:49</td>
+<td align="center" class="lborder + bborder">18:03 / 1:57</td>
+<td align="center" class="lborder + bborder">00:52</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">9:01 / 10:59</td>
+<td align="center" class="lborder + bborder">9:15 / 10:45</td>
+<td align="center" class="lborder + bborder">00:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">11:41 / 8:19</td>
+<td align="center" class="lborder + bborder">01:25</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">13:57 / 6:03</td>
+<td align="center" class="lborder + bborder">15:24 / 4:36</td>
+<td align="center" class="lborder + bborder">01:27</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:11</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">2:44 / 17:16</td>
+<td align="center" class="lborder + bborder">00:49</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">01:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">10:36 / 9:24</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">14:25 / 5:35</td>
+<td align="center" class="lborder + bborder">15:13 / 4:47</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">19:05 / 0:55</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">01:01</td>
+<td class="bborder + lborder + " align="center">05:05</td>
+<td class="bborder + lborder + " align="center">04:26</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:39</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:50</td>
+<td class="bborder + lborder + " align="center">05:05</td>
+<td class="bborder + lborder + " align="center">05:05</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">01:03</td>
+<td class="bborder + lborder + " align="center">05:17</td>
+<td class="bborder + lborder + " align="center">05:17</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">16</td>
+<td class="bborder + lborder + bold" align="center">00:57</td>
+<td class="bborder + lborder + bold" align="center">15:27</td>
+<td class="bborder + lborder + bold" align="center">14:48</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">00:39</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">18 GREENWAY, JORDAN</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:13 / 16:47</td>
+<td align="center" class="lborder + bborder">3:34 / 16:26</td>
+<td align="center" class="lborder + bborder">00:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">00:08</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">6:27 / 13:33</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">9:47 / 10:13</td>
+<td align="center" class="lborder + bborder">11:20 / 8:40</td>
+<td align="center" class="lborder + bborder">01:33</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">14:32 / 5:28</td>
+<td align="center" class="lborder + bborder">15:32 / 4:28</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">18:05 / 1:55</td>
+<td align="center" class="lborder + bborder">19:00 / 1:00</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">00:34</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:02 / 16:58</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">00:38</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">7:00 / 13:00</td>
+<td align="center" class="lborder + bborder">01:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:40 / 12:20</td>
+<td align="center" class="lborder + bborder">8:24 / 11:36</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">00:41</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">16:18 / 3:42</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">01:17</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">1:20 / 18:40</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">8:17 / 11:43</td>
+<td align="center" class="lborder + bborder">9:16 / 10:44</td>
+<td align="center" class="lborder + bborder">00:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">01:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:06 / 3:54</td>
+<td align="center" class="lborder + bborder">16:51 / 3:09</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">19</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">18:28 / 1:32</td>
+<td align="center" class="lborder + bborder">00:37</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">20</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">19:05 / 0:55</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">00:43</td>
+<td class="bborder + lborder + " align="center">05:06</td>
+<td class="bborder + lborder + " align="center">04:36</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:30</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:49</td>
+<td class="bborder + lborder + " align="center">04:57</td>
+<td class="bborder + lborder + " align="center">04:13</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:44</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">00:58</td>
+<td class="bborder + lborder + " align="center">06:50</td>
+<td class="bborder + lborder + " align="center">06:50</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">20</td>
+<td class="bborder + lborder + bold" align="center">00:50</td>
+<td class="bborder + lborder + bold" align="center">16:53</td>
+<td class="bborder + lborder + bold" align="center">15:39</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">01:14</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">20 SUTER, RYAN</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">3:04 / 16:56</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">00:46</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">9:49 / 10:11</td>
+<td align="center" class="lborder + bborder">02:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">01:07</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">15:40 / 4:20</td>
+<td align="center" class="lborder + bborder">16:40 / 3:20</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:06 / 0:54</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">00:34</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">2:58 / 17:02</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">00:43</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">11:24 / 8:36</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">13:53 / 6:07</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">16:34 / 3:26</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:30 / 19:30</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:20 / 15:40</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">00:38</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">19</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">7:38 / 12:22</td>
+<td align="center" class="lborder + bborder">8:55 / 11:05</td>
+<td align="center" class="lborder + bborder">01:17</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">20</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">10:43 / 9:17</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">21</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">13:12 / 6:48</td>
+<td align="center" class="lborder + bborder">14:22 / 5:38</td>
+<td align="center" class="lborder + bborder">01:10</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">22</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">15:46 / 4:14</td>
+<td align="center" class="lborder + bborder">16:54 / 3:06</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">23</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">17:49 / 2:11</td>
+<td align="center" class="lborder + bborder">19:10 / 0:50</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">01:01</td>
+<td class="bborder + lborder + " align="center">07:08</td>
+<td class="bborder + lborder + " align="center">06:22</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:46</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">8</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + " align="center">07:12</td>
+<td class="bborder + lborder + " align="center">05:35</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + rborder " align="center">00:43</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">8</td>
+<td class="bborder + lborder + " align="center">00:59</td>
+<td class="bborder + lborder + " align="center">07:53</td>
+<td class="bborder + lborder + " align="center">07:53</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">23</td>
+<td class="bborder + lborder + bold" align="center">00:57</td>
+<td class="bborder + lborder + bold" align="center">22:13</td>
+<td class="bborder + lborder + bold" align="center">19:50</td>
+<td class="bborder + lborder + bold" align="center">00:54</td>
+<td class="bborder + lborder + rborder bold" align="center">01:29</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">22 FIALA, KEVIN</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:34 / 16:26</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">01:29</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">00:49</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">13:32 / 6:28</td>
+<td align="center" class="lborder + bborder">01:06</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">16:29 / 3:31</td>
+<td align="center" class="lborder + bborder">17:17 / 2:43</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">9:15 / 10:45</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">14:02 / 5:58</td>
+<td align="center" class="lborder + bborder">01:13</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:20 / 18:40</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">00:35</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">00:56</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">9:16 / 10:44</td>
+<td align="center" class="lborder + bborder">10:48 / 9:12</td>
+<td align="center" class="lborder + bborder">01:32</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">14:24 / 5:36</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:51 / 3:09</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">01:01</td>
+<td class="bborder + lborder + " align="center">05:07</td>
+<td class="bborder + lborder + " align="center">04:53</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:14</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">01:02</td>
+<td class="bborder + lborder + " align="center">05:14</td>
+<td class="bborder + lborder + " align="center">04:20</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:58</td>
+<td class="bborder + lborder + " align="center">04:54</td>
+<td class="bborder + lborder + " align="center">04:54</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">15</td>
+<td class="bborder + lborder + bold" align="center">01:01</td>
+<td class="bborder + lborder + bold" align="center">15:15</td>
+<td class="bborder + lborder + bold" align="center">14:07</td>
+<td class="bborder + lborder + bold" align="center">00:54</td>
+<td class="bborder + lborder + rborder bold" align="center">00:14</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">24 DUMBA, MATT</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:04 / 16:56</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">01:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">00:49</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">9:49 / 10:11</td>
+<td align="center" class="lborder + bborder">11:29 / 8:31</td>
+<td align="center" class="lborder + bborder">01:40</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">14:36 / 5:24</td>
+<td align="center" class="lborder + bborder">01:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">16:40 / 3:20</td>
+<td align="center" class="lborder + bborder">17:48 / 2:12</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2:58 / 17:02</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">00:42</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">01:23</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">9:28 / 10:32</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">11:24 / 8:36</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">13:53 / 6:07</td>
+<td align="center" class="lborder + bborder">15:12 / 4:48</td>
+<td align="center" class="lborder + bborder">01:19</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">19:57 / 0:03</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:30 / 19:30</td>
+<td align="center" class="lborder + bborder">1:17 / 18:43</td>
+<td align="center" class="lborder + bborder">00:47</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">7:38 / 12:22</td>
+<td align="center" class="lborder + bborder">01:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">8:55 / 11:05</td>
+<td align="center" class="lborder + bborder">9:57 / 10:03</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">19</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">20</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">14:22 / 5:38</td>
+<td align="center" class="lborder + bborder">15:46 / 4:14</td>
+<td align="center" class="lborder + bborder">01:24</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">21</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:54 / 3:06</td>
+<td align="center" class="lborder + bborder">17:49 / 2:11</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">01:15</td>
+<td class="bborder + lborder + " align="center">07:34</td>
+<td class="bborder + lborder + " align="center">07:20</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:14</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">8</td>
+<td class="bborder + lborder + " align="center">00:53</td>
+<td class="bborder + lborder + " align="center">07:05</td>
+<td class="bborder + lborder + " align="center">05:59</td>
+<td class="bborder + lborder + " align="center">01:06</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">01:06</td>
+<td class="bborder + lborder + " align="center">07:42</td>
+<td class="bborder + lborder + " align="center">07:42</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">21</td>
+<td class="bborder + lborder + bold" align="center">01:03</td>
+<td class="bborder + lborder + bold" align="center">22:21</td>
+<td class="bborder + lborder + bold" align="center">21:01</td>
+<td class="bborder + lborder + bold" align="center">01:06</td>
+<td class="bborder + lborder + rborder bold" align="center">00:14</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">25 BRODIN, JONAS</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:04 / 16:56</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">01:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">9:49 / 10:11</td>
+<td align="center" class="lborder + bborder">11:29 / 8:31</td>
+<td align="center" class="lborder + bborder">01:40</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">14:36 / 5:24</td>
+<td align="center" class="lborder + bborder">01:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">16:37 / 3:23</td>
+<td align="center" class="lborder + bborder">17:19 / 2:41</td>
+<td align="center" class="lborder + bborder">00:42</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">18:55 / 1:05</td>
+<td align="center" class="lborder + bborder">19:06 / 0:54</td>
+<td align="center" class="lborder + bborder">00:11</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:13 / 16:47</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">00:27</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">9:28 / 10:32</td>
+<td align="center" class="lborder + bborder">01:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">11:24 / 8:36</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">13:53 / 6:07</td>
+<td align="center" class="lborder + bborder">15:12 / 4:48</td>
+<td align="center" class="lborder + bborder">01:19</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:30 / 19:30</td>
+<td align="center" class="lborder + bborder">1:03 / 18:57</td>
+<td align="center" class="lborder + bborder">00:33</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">7:49 / 12:11</td>
+<td align="center" class="lborder + bborder">01:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">8:55 / 11:05</td>
+<td align="center" class="lborder + bborder">9:57 / 10:03</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">19</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">20</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">14:22 / 5:38</td>
+<td align="center" class="lborder + bborder">15:46 / 4:14</td>
+<td align="center" class="lborder + bborder">01:24</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">21</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:54 / 3:06</td>
+<td align="center" class="lborder + bborder">17:49 / 2:11</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">22</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">19:10 / 0:50</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">01:04</td>
+<td class="bborder + lborder + " align="center">07:30</td>
+<td class="bborder + lborder + " align="center">06:30</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">01:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">01:03</td>
+<td class="bborder + lborder + " align="center">07:24</td>
+<td class="bborder + lborder + " align="center">06:07</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">01:17</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">8</td>
+<td class="bborder + lborder + " align="center">01:03</td>
+<td class="bborder + lborder + " align="center">08:29</td>
+<td class="bborder + lborder + " align="center">08:29</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">22</td>
+<td class="bborder + lborder + bold" align="center">01:03</td>
+<td class="bborder + lborder + bold" align="center">23:23</td>
+<td class="bborder + lborder + bold" align="center">21:06</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">02:17</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">26 MAYHEW, GERALD</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">3:34 / 16:26</td>
+<td align="center" class="lborder + bborder">4:54 / 15:06</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:17 / 12:43</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">00:29</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">13:32 / 6:28</td>
+<td align="center" class="lborder + bborder">01:06</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">16:14 / 3:46</td>
+<td align="center" class="lborder + bborder">17:11 / 2:49</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:52 / 0:08</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">01:23</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">9:15 / 10:45</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">13:57 / 6:03</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">18:44 / 1:16</td>
+<td align="center" class="lborder + bborder">01:09</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:20 / 18:40</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">00:35</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">00:56</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">9:16 / 10:44</td>
+<td align="center" class="lborder + bborder">10:36 / 9:24</td>
+<td align="center" class="lborder + bborder">01:20</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">14:13 / 5:47</td>
+<td align="center" class="lborder + bborder">14:25 / 5:35</td>
+<td align="center" class="lborder + bborder">00:12</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">16:51 / 3:09</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:49</td>
+<td class="bborder + lborder + " align="center">04:55</td>
+<td class="bborder + lborder + " align="center">04:55</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">01:05</td>
+<td class="bborder + lborder + " align="center">05:26</td>
+<td class="bborder + lborder + " align="center">04:20</td>
+<td class="bborder + lborder + " align="center">01:06</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:48</td>
+<td class="bborder + lborder + " align="center">04:03</td>
+<td class="bborder + lborder + " align="center">04:03</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">16</td>
+<td class="bborder + lborder + bold" align="center">00:54</td>
+<td class="bborder + lborder + bold" align="center">14:24</td>
+<td class="bborder + lborder + bold" align="center">13:18</td>
+<td class="bborder + lborder + bold" align="center">01:06</td>
+<td class="bborder + lborder + rborder bold" align="center">00:00</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">27 GALCHENYUK, ALEX</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">9:24 / 10:36</td>
+<td align="center" class="lborder + bborder">01:38</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">14:31 / 5:29</td>
+<td align="center" class="lborder + bborder">00:58</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">17:07 / 2:53</td>
+<td align="center" class="lborder + bborder">17:51 / 2:09</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">01:23</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">11:38 / 8:22</td>
+<td align="center" class="lborder + bborder">01:22</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">14:02 / 5:58</td>
+<td align="center" class="lborder + bborder">15:26 / 4:34</td>
+<td align="center" class="lborder + bborder">01:24</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:11</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">01:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">10:36 / 9:24</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">00:55</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">14:13 / 5:47</td>
+<td align="center" class="lborder + bborder">15:16 / 4:44</td>
+<td align="center" class="lborder + bborder">01:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">01:02</td>
+<td class="bborder + lborder + " align="center">04:11</td>
+<td class="bborder + lborder + " align="center">04:11</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">01:00</td>
+<td class="bborder + lborder + " align="center">05:04</td>
+<td class="bborder + lborder + " align="center">03:58</td>
+<td class="bborder + lborder + " align="center">01:06</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">01:12</td>
+<td class="bborder + lborder + " align="center">04:49</td>
+<td class="bborder + lborder + " align="center">04:49</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">13</td>
+<td class="bborder + lborder + bold" align="center">01:04</td>
+<td class="bborder + lborder + bold" align="center">14:04</td>
+<td class="bborder + lborder + bold" align="center">12:58</td>
+<td class="bborder + lborder + bold" align="center">01:06</td>
+<td class="bborder + lborder + rborder bold" align="center">00:00</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">29 PATERYN, GREG</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">00:08</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">11:29 / 8:31</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">14:36 / 5:24</td>
+<td align="center" class="lborder + bborder">15:40 / 4:20</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">17:48 / 2:12</td>
+<td align="center" class="lborder + bborder">19:06 / 0:54</td>
+<td align="center" class="lborder + bborder">01:18</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">9:33 / 10:27</td>
+<td align="center" class="lborder + bborder">01:49</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">00:41</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">15:12 / 4:48</td>
+<td align="center" class="lborder + bborder">16:34 / 3:26</td>
+<td align="center" class="lborder + bborder">01:22</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">19:57 / 0:03</td>
+<td align="center" class="lborder + bborder">00:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:17 / 18:43</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">00:38</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">4:20 / 15:40</td>
+<td align="center" class="lborder + bborder">00:22</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">00:56</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">9:57 / 10:03</td>
+<td align="center" class="lborder + bborder">10:43 / 9:17</td>
+<td align="center" class="lborder + bborder">00:46</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">13:12 / 6:48</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">19:10 / 0:50</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:53</td>
+<td class="bborder + lborder + " align="center">05:18</td>
+<td class="bborder + lborder + " align="center">04:18</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">01:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:58</td>
+<td class="bborder + lborder + " align="center">05:48</td>
+<td class="bborder + lborder + " align="center">04:31</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">01:17</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:44</td>
+<td class="bborder + lborder + " align="center">04:25</td>
+<td class="bborder + lborder + " align="center">04:25</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">18</td>
+<td class="bborder + lborder + bold" align="center">00:51</td>
+<td class="bborder + lborder + bold" align="center">15:31</td>
+<td class="bborder + lborder + bold" align="center">13:14</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">02:17</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">32 STALOCK, ALEX</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">20:00</td>
+<td align="center" class="lborder + bborder + rborder">GP</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">20:00</td>
+<td align="center" class="lborder + bborder + rborder">GP</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">20:00</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">18:00</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">02:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">16:00</td>
+<td class="bborder + lborder + " align="center">02:00</td>
+<td class="bborder + lborder + rborder " align="center">02:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">20:00</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">3</td>
+<td class="bborder + lborder + bold" align="center">20:00</td>
+<td class="bborder + lborder + bold" align="center">60:00</td>
+<td class="bborder + lborder + bold" align="center">54:00</td>
+<td class="bborder + lborder + bold" align="center">02:00</td>
+<td class="bborder + lborder + rborder bold" align="center">04:00</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">36 ZUCCARELLO, MATS</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">9:47 / 10:13</td>
+<td align="center" class="lborder + bborder">02:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">13:32 / 6:28</td>
+<td align="center" class="lborder + bborder">14:32 / 5:28</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">17:17 / 2:43</td>
+<td align="center" class="lborder + bborder">18:05 / 1:55</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">01:23</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">11:30 / 8:30</td>
+<td align="center" class="lborder + bborder">01:14</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">14:02 / 5:58</td>
+<td align="center" class="lborder + bborder">15:18 / 4:42</td>
+<td align="center" class="lborder + bborder">01:16</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:11</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">01:50</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">10:48 / 9:12</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">00:43</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">14:24 / 5:36</td>
+<td align="center" class="lborder + bborder">15:09 / 4:51</td>
+<td align="center" class="lborder + bborder">00:45</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">01:10</td>
+<td class="bborder + lborder + " align="center">04:40</td>
+<td class="bborder + lborder + " align="center">04:40</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:57</td>
+<td class="bborder + lborder + " align="center">04:48</td>
+<td class="bborder + lborder + " align="center">03:42</td>
+<td class="bborder + lborder + " align="center">01:06</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">4</td>
+<td class="bborder + lborder + " align="center">01:04</td>
+<td class="bborder + lborder + " align="center">04:19</td>
+<td class="bborder + lborder + " align="center">04:19</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">13</td>
+<td class="bborder + lborder + bold" align="center">01:03</td>
+<td class="bborder + lborder + bold" align="center">13:47</td>
+<td class="bborder + lborder + bold" align="center">12:41</td>
+<td class="bborder + lborder + bold" align="center">01:06</td>
+<td class="bborder + lborder + rborder bold" align="center">00:00</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">38 HARTMAN, RYAN</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">3:13 / 16:47</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">5:48 / 14:12</td>
+<td align="center" class="lborder + bborder">00:37</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">6:27 / 13:33</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">11:20 / 8:40</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">01:06</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">15:32 / 4:28</td>
+<td align="center" class="lborder + bborder">16:29 / 3:31</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:00 / 1:00</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">3:02 / 16:58</td>
+<td align="center" class="lborder + bborder">00:59</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:00 / 13:00</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">00:01</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">7:40 / 12:20</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">8:24 / 11:36</td>
+<td align="center" class="lborder + bborder">9:40 / 10:20</td>
+<td align="center" class="lborder + bborder">01:16</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">11:30 / 8:30</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">00:38</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">15:18 / 4:42</td>
+<td align="center" class="lborder + bborder">16:18 / 3:42</td>
+<td align="center" class="lborder + bborder">01:00</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">01:02</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">8:17 / 11:43</td>
+<td align="center" class="lborder + bborder">00:33</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">15:09 / 4:51</td>
+<td align="center" class="lborder + bborder">16:06 / 3:54</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">18:28 / 1:32</td>
+<td align="center" class="lborder + bborder">19:05 / 0:55</td>
+<td align="center" class="lborder + bborder">00:37</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:49</td>
+<td class="bborder + lborder + " align="center">04:58</td>
+<td class="bborder + lborder + " align="center">03:51</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">01:07</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">00:46</td>
+<td class="bborder + lborder + " align="center">05:26</td>
+<td class="bborder + lborder + " align="center">04:10</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">01:16</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:47</td>
+<td class="bborder + lborder + " align="center">03:57</td>
+<td class="bborder + lborder + " align="center">03:57</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">18</td>
+<td class="bborder + lborder + bold" align="center">00:47</td>
+<td class="bborder + lborder + bold" align="center">14:21</td>
+<td class="bborder + lborder + bold" align="center">11:58</td>
+<td class="bborder + lborder + bold" align="center">00:00</td>
+<td class="bborder + lborder + rborder bold" align="center">02:23</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">46 SPURGEON, JARED</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:39 / 19:21</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">3:04 / 16:56</td>
+<td align="center" class="lborder + bborder">00:39</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">00:46</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">9:49 / 10:11</td>
+<td align="center" class="lborder + bborder">02:03</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">13:33 / 6:27</td>
+<td align="center" class="lborder + bborder">01:07</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">15:40 / 4:20</td>
+<td align="center" class="lborder + bborder">16:37 / 3:23</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">19:06 / 0:54</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:34 / 19:26</td>
+<td align="center" class="lborder + bborder">00:34</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">3:13 / 16:47</td>
+<td align="center" class="lborder + bborder">01:10</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">3:40 / 16:20</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">00:54</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">7:01 / 12:59</td>
+<td align="center" class="lborder + bborder">7:44 / 12:16</td>
+<td align="center" class="lborder + bborder">00:43</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">11:24 / 8:36</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">13:53 / 6:07</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">16:20 / 3:40</td>
+<td align="center" class="lborder + bborder">17:35 / 2:25</td>
+<td align="center" class="lborder + bborder">01:15</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">18:56 / 1:04</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">0:00 / 20:00</td>
+<td align="center" class="lborder + bborder">0:30 / 19:30</td>
+<td align="center" class="lborder + bborder">00:30</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">2:56 / 17:04</td>
+<td align="center" class="lborder + bborder">01:01</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">18</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:20 / 15:40</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">00:38</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">19</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">7:49 / 12:11</td>
+<td align="center" class="lborder + bborder">8:55 / 11:05</td>
+<td align="center" class="lborder + bborder">01:06</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">20</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">10:43 / 9:17</td>
+<td align="center" class="lborder + bborder">11:31 / 8:29</td>
+<td align="center" class="lborder + bborder">00:48</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">21</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">13:29 / 6:31</td>
+<td align="center" class="lborder + bborder">14:22 / 5:38</td>
+<td align="center" class="lborder + bborder">00:53</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">22</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">15:46 / 4:14</td>
+<td align="center" class="lborder + bborder">16:54 / 3:06</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">23</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">17:49 / 2:11</td>
+<td align="center" class="lborder + bborder">19:10 / 0:50</td>
+<td align="center" class="lborder + bborder">01:21</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">7</td>
+<td class="bborder + lborder + " align="center">01:00</td>
+<td class="bborder + lborder + " align="center">07:05</td>
+<td class="bborder + lborder + " align="center">06:19</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:46</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">8</td>
+<td class="bborder + lborder + " align="center">00:57</td>
+<td class="bborder + lborder + " align="center">07:41</td>
+<td class="bborder + lborder + " align="center">06:04</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + rborder " align="center">00:43</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">8</td>
+<td class="bborder + lborder + " align="center">00:55</td>
+<td class="bborder + lborder + " align="center">07:25</td>
+<td class="bborder + lborder + " align="center">07:25</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">23</td>
+<td class="bborder + lborder + bold" align="center">00:57</td>
+<td class="bborder + lborder + bold" align="center">22:11</td>
+<td class="bborder + lborder + bold" align="center">19:48</td>
+<td class="bborder + lborder + bold" align="center">00:54</td>
+<td class="bborder + lborder + rborder bold" align="center">01:29</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="top" class="playerHeading + border" colspan="8">77 HUNT, BRAD</td>
+</tr>
+<tr>
+<td class="heading + lborder + bborder" align="center" valign="middle">Shift #</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Per</td>
+<td class="heading + lborder + bborder" align="center">Start of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center">End of Shift<br>Elapsed / Game</td>
+<td class="heading + lborder + bborder" align="center" valign="middle">Duration</td>
+<td class="heading + lborder + bborder + rborder" align="center" valign="middle">Event<br><span class="note">G=Goal<br>P=Penalty</span></td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">1:34 / 18:26</td>
+<td align="center" class="lborder + bborder">2:25 / 17:35</td>
+<td align="center" class="lborder + bborder">00:51</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">5:03 / 14:57</td>
+<td align="center" class="lborder + bborder">5:11 / 14:49</td>
+<td align="center" class="lborder + bborder">00:08</td>
+<td align="center" class="lborder + bborder + rborder">P</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">6:57 / 13:03</td>
+<td align="center" class="lborder + bborder">7:46 / 12:14</td>
+<td align="center" class="lborder + bborder">00:49</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">4</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">11:29 / 8:31</td>
+<td align="center" class="lborder + bborder">12:26 / 7:34</td>
+<td align="center" class="lborder + bborder">00:57</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">5</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">14:36 / 5:24</td>
+<td align="center" class="lborder + bborder">15:40 / 4:20</td>
+<td align="center" class="lborder + bborder">01:04</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">6</td>
+<td align="center" class="lborder + bborder">1</td>
+<td align="center" class="lborder + bborder">17:19 / 2:41</td>
+<td align="center" class="lborder + bborder">18:55 / 1:05</td>
+<td align="center" class="lborder + bborder">01:36</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">7</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">1:19 / 18:41</td>
+<td align="center" class="lborder + bborder">2:03 / 17:57</td>
+<td align="center" class="lborder + bborder">00:44</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">8</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">4:34 / 15:26</td>
+<td align="center" class="lborder + bborder">5:57 / 14:03</td>
+<td align="center" class="lborder + bborder">01:23</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">9</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">9:33 / 10:27</td>
+<td align="center" class="lborder + bborder">10:16 / 9:44</td>
+<td align="center" class="lborder + bborder">00:43</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">10</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">12:08 / 7:52</td>
+<td align="center" class="lborder + bborder">12:49 / 7:11</td>
+<td align="center" class="lborder + bborder">00:41</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">11</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">15:12 / 4:48</td>
+<td align="center" class="lborder + bborder">16:20 / 3:40</td>
+<td align="center" class="lborder + bborder">01:08</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">12</td>
+<td align="center" class="lborder + bborder">2</td>
+<td align="center" class="lborder + bborder">19:49 / 0:11</td>
+<td align="center" class="lborder + bborder">20:00 / 0:00</td>
+<td align="center" class="lborder + bborder">00:11</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">13</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">1:03 / 18:57</td>
+<td align="center" class="lborder + bborder">1:55 / 18:05</td>
+<td align="center" class="lborder + bborder">00:52</td>
+<td align="center" class="lborder + bborder + rborder">G</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">14</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">3:58 / 16:02</td>
+<td align="center" class="lborder + bborder">4:20 / 15:40</td>
+<td align="center" class="lborder + bborder">00:22</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">15</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">4:58 / 15:02</td>
+<td align="center" class="lborder + bborder">5:54 / 14:06</td>
+<td align="center" class="lborder + bborder">00:56</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="	evenColor">
+<td align="center" class="lborder + bborder">16</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">9:57 / 10:03</td>
+<td align="center" class="lborder + bborder">10:43 / 9:17</td>
+<td align="center" class="lborder + bborder">00:46</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr class="oddColor">
+<td align="center" class="lborder + bborder">17</td>
+<td align="center" class="lborder + bborder">3</td>
+<td align="center" class="lborder + bborder">12:19 / 7:41</td>
+<td align="center" class="lborder + bborder">13:29 / 6:31</td>
+<td align="center" class="lborder + bborder">01:10</td>
+<td align="center" class="lborder + bborder + rborder">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer + bborder + lborder + rborder" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" class="heading + bborder + lborder">Per</td>
+<td align="center" class="heading + bborder + lborder">SHF</td>
+<td align="center" class="heading + bborder + lborder">AVG</td>
+<td align="center" class="heading + bborder + lborder">TOI</td>
+<td align="center" class="heading + bborder + lborder">EV&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder">PP&nbsp;TOT</td>
+<td align="center" class="heading + bborder + lborder + rborder">SH&nbsp;TOT</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">1</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:54</td>
+<td class="bborder + lborder + " align="center">05:25</td>
+<td class="bborder + lborder + " align="center">05:11</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:14</td>
+</tr>
+<tr class="	evenColor">
+<td class="bborder + lborder + " align="center">2</td>
+<td class="bborder + lborder + " align="center">6</td>
+<td class="bborder + lborder + " align="center">00:48</td>
+<td class="bborder + lborder + " align="center">04:50</td>
+<td class="bborder + lborder + " align="center">03:44</td>
+<td class="bborder + lborder + " align="center">01:06</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="oddColor">
+<td class="bborder + lborder + " align="center">3</td>
+<td class="bborder + lborder + " align="center">5</td>
+<td class="bborder + lborder + " align="center">00:49</td>
+<td class="bborder + lborder + " align="center">04:06</td>
+<td class="bborder + lborder + " align="center">04:06</td>
+<td class="bborder + lborder + " align="center">00:00</td>
+<td class="bborder + lborder + rborder " align="center">00:00</td>
+</tr>
+<tr class="evenColor">
+<td class="bborder + lborder + bold" align="center">TOT</td>
+<td class="bborder + lborder + bold" align="center">17</td>
+<td class="bborder + lborder + bold" align="center">00:50</td>
+<td class="bborder + lborder + bold" align="center">14:21</td>
+<td class="bborder + lborder + bold" align="center">13:01</td>
+<td class="bborder + lborder + bold" align="center">01:06</td>
+<td class="bborder + lborder + rborder bold" align="center">00:14</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td width="100%" class="spacer" colspan="8">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="tablewidth">
+<tr>
+<td>&#169; Copyright 2020, National Hockey League
+							&nbsp;2020-02-26-13.33.44</td>
+</tr>
+</table>
+</div>
+<div class="print-class" align="center"><script languange="javascript" type="text/javascript" src="http://www.nhl.com/scores/htmlreports/scripts/toiBottom.js"><!--&nbsp;--></script></div>
+</body>
+</html>

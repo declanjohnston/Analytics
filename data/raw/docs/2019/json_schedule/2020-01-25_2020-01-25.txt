@@ -1,0 +1,164 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalMatches" : 0,
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2020-01-25",
+    "totalItems" : 3,
+    "totalEvents" : 0,
+    "totalGames" : 3,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2019040651,
+      "link" : "/api/v1/game/2019040651/feed/live",
+      "gameType" : "A",
+      "season" : "20192020",
+      "gameDate" : "2020-01-26T01:15:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "6",
+        "detailedState" : "Final",
+        "statusCode" : "6",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 88,
+            "name" : "Team Metropolitan",
+            "link" : "/api/v1/teams/88"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 87,
+            "name" : "Team Atlantic",
+            "link" : "/api/v1/teams/87"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5076,
+        "name" : "Enterprise Center",
+        "link" : "/api/v1/venues/5076"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019040651/content"
+      }
+    }, {
+      "gamePk" : 2019040652,
+      "link" : "/api/v1/game/2019040652/feed/live",
+      "gameType" : "A",
+      "season" : "20192020",
+      "gameDate" : "2020-01-26T02:15:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "6",
+        "detailedState" : "Final",
+        "statusCode" : "6",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 10,
+          "team" : {
+            "id" : 90,
+            "name" : "Team Pacific",
+            "link" : "/api/v1/teams/90"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 89,
+            "name" : "Team Central",
+            "link" : "/api/v1/teams/89"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5076,
+        "name" : "Enterprise Center",
+        "link" : "/api/v1/venues/5076"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019040652/content"
+      }
+    }, {
+      "gamePk" : 2019040653,
+      "link" : "/api/v1/game/2019040653/feed/live",
+      "gameType" : "A",
+      "season" : "20192020",
+      "gameDate" : "2020-01-26T03:15:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "6",
+        "detailedState" : "Final",
+        "statusCode" : "6",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 87,
+            "name" : "Team Atlantic",
+            "link" : "/api/v1/teams/87"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 90,
+            "name" : "Team Pacific",
+            "link" : "/api/v1/teams/90"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Pacific",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2019040653/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}
