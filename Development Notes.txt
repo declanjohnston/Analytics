@@ -14,3 +14,10 @@ Can be checked by looking at game id and event number.
 2020-07-26
 
 Need to handle the case of a player being traded
+
+2020-12-15
+
+Shifts easy to import from json, may consider moving everything to json, would be a lot of work but also would be nice to avoid csvs, all txt instead.
+Shifts are shown for each individual player, would have to stitch together who was on during each event.
+
+

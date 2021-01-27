@@ -2,6 +2,8 @@
 """
 Created on Tue Mar 10 17:40:29 2020
 
+To be run daily, automatically imports yesterdays pbp data and saves them in a new folder summarized in csvs
+
 @author: decla
 """
 import os
@@ -11,6 +13,7 @@ import hockey_scraper
 from datetime import date, timedelta
 import csv
 import GLOBAL
+import shift_importer
 
 #Generate date and create path if necessary
 yesterday = date.today() - timedelta(days=1)
@@ -55,7 +58,7 @@ for game in games:
         writer.writerow(data[0])
         for row in game:
             writer.writerow(row)
-            
+    import_shifts(game[0][1])            
 
         
     

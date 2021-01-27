@@ -52,7 +52,7 @@ def johnston_number(player_id,events):
         if event[GLOBAL.EVENT_INDEX] == "BLOCK" and event[GLOBAL.PERIOD_INDEX] != str(5) and event[GLOBAL.STRENGTH_INDEX] == "5x5":
             #blocked by player
             if event[GLOBAL.P1_ID_INDEX] == player_id+".0":
-                num = num + 5
+                num = num + 10
             #just a shot
             elif event[GLOBAL.P2_ID_INDEX] == player_id+".0":
                 num = num + 10
