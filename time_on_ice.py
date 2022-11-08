@@ -45,7 +45,7 @@ def total_time_on_ice(player_id):
     
 def total_time_on_ice_dictionary():
     #copy the player dictionary, then for each player find their TOI
-    data = _ReadCsv("C:/Users/decla/Documents/Analytics/data/players/player_lookup.csv")
+    data = _ReadCsv("./data/players/player_lookup.csv")
     data.pop(0)
     for player in data:
         toi = total_time_on_ice(player[0])

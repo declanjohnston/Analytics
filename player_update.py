@@ -42,10 +42,10 @@ def _ReadCsv(filename):
 
 def update_game(game_id, game_date): 
     player_indeces = [16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,50,52]
-    game_path = "C:/Users/decla/Documents/Analytics/data/processed_games/" + game_date + "/"+ game_id 
+    game_path = "./data/processed_games/" + game_date + "/"+ game_id 
     game_path.replace(".csv.csv",".csv")
     print(game_path)
-    player_path = "C:/Users/decla/Documents/Analytics/data/players/"
+    player_path = "./data/players/"
     data = _ReadCsv(game_path)
     header = data.pop(0)
     player_ids = []
@@ -90,19 +90,19 @@ def update_game(game_id, game_date):
                 writer.writerow(row)
 
 def update_day(date):
-    path = "C:/Users/decla/Documents/Analytics/data/processed_games/" + date
+    path = "./data/processed_games/" + date
     files = os.listdir(path)
     for game in files:
         update_game(game,date)
                     
 def update_bulk():
-    path = "C:/Users/decla/Documents/Analytics/data/processed_games/"
+    path = "./data/processed_games/"
     files = os.listdir(path)
     for file in files:
         update_day(file)
         
 def player_dictionary_generator():
-    path = "C:/Users/decla/Documents/Analytics/data/players/"
+    path = "./data/players/"
     players = os.listdir(path)
     player_dict = {}
     for player in players:
