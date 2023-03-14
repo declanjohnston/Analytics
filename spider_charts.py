@@ -151,11 +151,12 @@ if __name__ == '__main__':
         fig.subplots_adjust(wspace=0.25, hspace=0.20, top=0.85, bottom=0.05)
 
         axs.set_rgrids([-1,1], labels = ["", ""])
-        axs.set_ylim(-1.5,1.5)
+        axs.set_ylim(-1,1.5)
         axs.set_title(z_scores["Team"][i], weight='bold', size='medium', position=(0.5, 0.5),
                         horizontalalignment='center', verticalalignment='center')
         axs.plot(theta, z_scores.iloc[i].tolist()[1:],colors.iloc[i][-1])
         axs.fill(theta, z_scores.iloc[i].tolist()[1:], facecolor=colors.iloc[i][-1], alpha=0.25, label='_nolegend_')
         axs.set_varlabels(spoke_labels)
 
-        plt.show()
+        plt.savefig("charts/"+z_scores["Team"][i]+".png", bbox_inches='tight')
+        plt.close()
